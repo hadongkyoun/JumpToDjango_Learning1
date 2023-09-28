@@ -1,1 +1,1 @@
-# [Goal] 장고 Master
+# Goal : 장고 Master
